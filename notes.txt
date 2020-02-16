@@ -1,0 +1,10 @@
+virtualenv venv
+source venv/bin/activate
+
+pip install flask
+
+flask run
+
+in browser -> localhost:5000
+
+
